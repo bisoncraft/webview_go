@@ -1,3 +1,3 @@
-module github.com/webview/webview_go
+module github.com/bisoncraft/webview_go
 
 go 1.13
